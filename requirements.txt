@@ -1,0 +1,12 @@
+streamlit>=1.38.0
+pyautogen>=0.4.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+autogen-agentchat
+autogen-ext[openai]
+duckduckgo-search
+ddgs
+networkx
+langchain-community
+langchain-openai
+langchain-experimental
